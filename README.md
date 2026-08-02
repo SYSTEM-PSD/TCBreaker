@@ -13,4 +13,4 @@ Exact multi-output logic synthesis with AND/OR/NAND/NOR/NOT/SWITCH/BUS_OR gates.
 7. Pruning rule: During generation, if a useless gate appears (e.g., AND(x,x), AND(x,1), etc., degenerating into a wire or constant), discard that candidate immediately and do not expand it further.
 
 # Problems
--SEVERE performance issues(now fixing XD)
+Not yet.
